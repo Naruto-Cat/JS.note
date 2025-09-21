@@ -1,1 +1,2 @@
-statement：述句的筆記
+1. statement：述句
+2. expression：運算式
